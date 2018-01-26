@@ -1,1 +1,4 @@
 # openstack-commands
+
+
+# rm -fr / 
